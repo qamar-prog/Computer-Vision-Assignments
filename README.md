@@ -36,14 +36,13 @@ The labs explore fundamental concepts including:
 ## 📂 Repository Structure
 
 ```text
-Computer-Vision-Labs/
+Computer-Vision-Assignments/
 │
-├── Lab-01/
-├── Lab-02/
-├── Lab-03/
-├── Lab-04/
+├── A-01/
+├── A-02/
+├── A-03/
+├── A-04/
 ├── ...
 │
-├── requirements.txt
 ├── README.md
 └── LICENSE
